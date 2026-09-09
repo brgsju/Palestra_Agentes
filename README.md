@@ -51,7 +51,7 @@ A integração entre agentes, LLMs e ferramentas de automação permite criar fl
 
 Os slides utilizados durante a palestra estão disponíveis neste repositório.
 
-> **[📥 Acessar os slides da palestra](./slides.pdf)**
+> **[📥 Acessar os slides da palestra](https://github.com/brgsju/Palestra_Agentes/blob/main/Projeto%20de%20Extensa%CC%83o%20-%20Automac%CC%A7o%CC%83es.pdf)**
 
 ## 🎯 Objetivo
 
